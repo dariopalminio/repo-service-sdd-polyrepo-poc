@@ -1,0 +1,3 @@
+# repo-service-sdd-polyrepo-poc/.specify-store/config.yaml
+specs_repo: "../"
+specs_path: "specs"
