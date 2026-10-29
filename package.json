@@ -1,0 +1,11 @@
+{
+  "name": "repo-service-sdd-polyrepo-poc",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node src/server.js"
+  }
+}
